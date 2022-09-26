@@ -1,4 +1,4 @@
-[Go Live Buddy!]()
+[Go Live Buddy!](https://tushar-ojha-plant-home-page.netlify.app)
 
 ## About project:
 
